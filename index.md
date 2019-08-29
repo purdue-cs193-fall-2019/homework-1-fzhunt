@@ -1,8 +1,8 @@
 # Zachariah's First CS193 Homework
--Learning how things work
--Being able to create my own programs, as simple as they are
--The more relaxed nature of the class
--The fact that I'm finally taking a bunch of classes that I'm interested in
+- Learning how things work
+- Being able to create my own programs, as simple as they are
+- The more relaxed nature of the class
+- The fact that I'm finally taking a bunch of classes that I'm interested in
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
